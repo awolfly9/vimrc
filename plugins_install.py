@@ -19,6 +19,8 @@ echo "undo 持久化"
 mkdir ~/.vim/undo
 
 
+echo "tagbar"
+git clone https://github.com/majutsushi/tagbar.git ~/vimrc/my_plugins/tagbar
 
 
 
