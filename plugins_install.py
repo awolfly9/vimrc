@@ -23,4 +23,9 @@ echo "tagbar"
 git clone https://github.com/majutsushi/tagbar.git ~/vimrc/my_plugins/tagbar
 
 
+echo "nerdtree git 插件"
+git clone https://github.com/Xuyuanp/nerdtree-git-plugin.git ~/vimrc/my_plugins/nerdtree-git-plugin
 
+
+echo "git 插件"
+git clone git://github.com/airblade/vim-gitgutter.git ~/vimrc/my_plugins/vim-gitgutter

@@ -66,10 +66,9 @@ let g:formatter_yapf_style = 'google'
 
 
 
-" let g:NERDComToggleComment="<D-l>"
-" map <D-l>:NERDComToggleComment<CR>
-"
-"
+map <F4> :NERDTreeToggle<CR>
 
 nmap <F8> :TagbarToggle<CR>
 
+
+set rtp+=~/.fzf
