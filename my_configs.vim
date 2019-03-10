@@ -70,5 +70,6 @@ map <F4> :NERDTreeToggle<CR>
 
 nmap <F8> :TagbarToggle<CR>
 
+map <leader>b :tabp<CR>
 
 set rtp+=~/.fzf

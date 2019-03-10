@@ -29,3 +29,11 @@ git clone https://github.com/Xuyuanp/nerdtree-git-plugin.git ~/vimrc/my_plugins/
 
 echo "git 插件"
 git clone git://github.com/airblade/vim-gitgutter.git ~/vimrc/my_plugins/vim-gitgutter
+
+echo 'tabular'
+git clone git://github.com/godlygeek/tabular.git ~/vimrc/my_plugins/tabular
+
+
+echo 'vim-signify'
+git clone https://github.com/mhinz/vim-signify.git ~/vimrc/my_plugins/vim-signify
+
