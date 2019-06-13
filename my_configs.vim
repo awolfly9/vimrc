@@ -72,4 +72,13 @@ nmap <F8> :TagbarToggle<CR>
 
 map <leader>b :tabp<CR>
 
+" 粘贴
+map <F10>:set paste<CR>
+map <F11>:set nopaste<CR>
+set pastetoggle=<F11>
+
+" 复制
+set clipboard=unnamedplus
+
 set rtp+=~/.fzf
+
